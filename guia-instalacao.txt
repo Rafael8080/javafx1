@@ -27,7 +27,7 @@ o Entrar o caminho completo do arquivo executável do Scene Builder
  Criar uma User Library no Eclipse com o nome de JavaFX:
 o Window -> Preferences -> Java -> Build Path -> User Libraries -> New
 o Dê o nome de User Library
-o Add External Jars (aponte para a pasta bin do JavaFX)
+o Add External Jars (aponte para a pasta lib do JavaFX)
 
 Criando um novo projeto JavaFX no Eclipse
 Checklist:
